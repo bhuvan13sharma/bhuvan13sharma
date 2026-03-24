@@ -2,6 +2,7 @@
 
 🎓 US CMA Candidate
 📊 Interested in Financial Analysis, Costing, and Business Decision-Making
+
 🔧 Skills
 Microsoft Excel (Financial Models, Analysis)
 Power BI (Dashboards - Learning)
