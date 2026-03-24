@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 Hi, I'm Bhuvan 👋
+
+🎓 US CMA Candidate
+📊 Interested in Financial Analysis, Costing, and Business Decision-Making
 
 <!--
 **bhuvan13sharma/bhuvan13sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
