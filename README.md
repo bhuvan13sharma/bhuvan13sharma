@@ -7,5 +7,15 @@
 **bhuvan13sharma/bhuvan13sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+🔧 Skills
+Microsoft Excel (Financial Models, Analysis)
+Power BI (Dashboards - Learning)
+Basic Data Analytics
+Cost & Management Accounting
 
- 🌱 I’m currently learning us cma
+🎯 Career Goal
+
+To work as a Financial Analyst / Management Accountant and use data for business decision-making.
+
+📫 Contact
+Email:bhuvan13sharma@gmail.com
