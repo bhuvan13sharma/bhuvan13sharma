@@ -1,20 +1,37 @@
 ## Hi there 👋 Hi, I'm Bhuvan 👋
-
 🎓 US CMA Candidate
 📊 Interested in Financial Analysis, Costing, and Business Decision-Making
+---
+## 🔧 Skills
+* Microsoft Excel (Financial Models, Analysis)
+* Budgeting & Variance Analysis
+* Financial Statement Analysis
+* Cost & Management Accounting
+---
+## 📁 Projects
+### 📊 Break-even Analysis Tool
 
-🔧 Skills
-Microsoft Excel (Financial Models, Analysis)
-Power BI (Dashboards - Learning)
-Basic Data Analytics
-Cost & Management Accounting
+* Excel-based model to calculate break-even point
+* Uses cost-volume-profit (CVP) analysis
 
-🎯 Career Goal
+### 📉 Budget vs Actual Dashboard
 
-To work as a Financial Analyst / Management Accountant and use data for business decision-making.
+* Compares budgeted vs actual performance
+* Includes variance and % variance analysis
+* Visual dashboard with charts
 
-📫 Contact
-Email:bhuvan13sharma@gmail.com
+### 📈 Financial Statement Analysis
 
-<!--
-**bhuvan13sharma/bhuvan13sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Income Statement and Balance Sheet
+* Key ratios: Profit Margin, ROA, Current Ratio
+* Provides basic financial insights
+
+---
+## 🎯 Career Goal
+To start my career as a Financial Analyst / Management Accountant and apply accounting knowledge to real business problems.
+
+---
+## 📫 Contact
+
+* Email:bhuvan13sharma@gmail.com
+
